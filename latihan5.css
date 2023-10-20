@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://fabricstreet.com/cdn/shop/products/CP75994.jpg?v=1629223429);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;  
+    font-family:cursive;
+}
+.container {
+    width: 850px;
+    margin: 50px auto;
+    border: 5px dotted black;
+    text-align: justify;
+}
+h1 {
+    background: linear-gradient(to right, #fffbd5, #b20a2c); 
+    color: black;
+    text-align: center;
+}
+h2 {
+    background: linear-gradient(to bottom, #fffbd5, #b20a2c);
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+p {
+    padding: 50px;
+    margin: 30px auto;
+    text-align: justify;
+    background: linear-gradient(to bottom, #ef3b36, #ffffff);
+    width: 850px auto;
+}
+#pengantar {
+    padding: 50px;
+    margin: 10px;
+    
+}
+.content {
+    background-color: linear-gradient(to right, #333333, #dd1818);
+    width: 850px;
+    margin: 30px auto;
+    text-align: justify;
+}
