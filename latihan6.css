@@ -1,0 +1,92 @@
+
+header {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b6/Timezone_Australia_Logo.png);
+    background-repeat:repeat-x;
+    background-size: 20%;
+    background-position: left;
+    text-align: center;
+    padding: 100px;
+    font-family: Arial, sans-serif;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: linear-gradient(to bottom, #1a2a6c, #b21f1f, #fdbb2d);
+    background-size: cover; 
+    background-attachment: fixed;
+}
+ *{
+    scroll-behavior:smooth;
+}
+h1 {
+    font-size: 36px;
+    margin: 0;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.outline {
+    outline-style: double;
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background: linear-gradient(to bottom, #ffb347, #ffcc33); 
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+.outline h2 {
+    font-size: 26px;
+}
+.list {
+    outline-style: double;
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background: linear-gradient(to bottom, #ffb347, #ffcc33); 
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.profile {
+    outline-style: double;
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background: linear-gradient(to bottom, #ffb347, #ffcc33); 
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.place {
+    outline-style: double;
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background: linear-gradient(to bottom, #ffb347, #ffcc33); 
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.member {
+    outline-style: double;
+    padding: 50px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background: linear-gradient(to bottom, #ffb347, #ffcc33); 
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.footer {
+    background: linear-gradient(to bottom, #ffb347, #ffcc33); 
+    padding-bottom: 4%;
+    text-align: center;
+    color: black;
+    padding: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
